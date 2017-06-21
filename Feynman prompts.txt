@@ -1,0 +1,11 @@
+-Callback Functions: functions that can be passed to other functions as parameters.
+
+-Closure: a function inside another function that has access to any variables outside of it. but the outer function does not have access to the inner variables of the inner function.
+
+-Arguments Array: an object that all arguments are passed to the function 
+
+-Recursion: calling a function inside itself
+
+-Prototype: a property that allows you to attach methods to an object to create a constructor
+
+-Constructor: a template for creating objects  
